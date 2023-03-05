@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasktastic/static/css/main.85e9928e.css",
+    "main.js": "/tasktastic/static/js/main.7ebcd100.js",
+    "index.html": "/tasktastic/index.html",
+    "main.85e9928e.css.map": "/tasktastic/static/css/main.85e9928e.css.map",
+    "main.7ebcd100.js.map": "/tasktastic/static/js/main.7ebcd100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e9928e.css",
+    "static/js/main.7ebcd100.js"
+  ]
+}
