@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jrcarver/tasktastic.git/static/css/main.85e9928e.css",
+    "main.css": "/jrcarver/tasktastic.git/static/css/main.d73d2221.css",
     "main.js": "/jrcarver/tasktastic.git/static/js/main.98c61ebf.js",
     "index.html": "/jrcarver/tasktastic.git/index.html",
-    "main.85e9928e.css.map": "/jrcarver/tasktastic.git/static/css/main.85e9928e.css.map",
+    "main.d73d2221.css.map": "/jrcarver/tasktastic.git/static/css/main.d73d2221.css.map",
     "main.98c61ebf.js.map": "/jrcarver/tasktastic.git/static/js/main.98c61ebf.js.map"
   },
   "entrypoints": [
-    "static/css/main.85e9928e.css",
+    "static/css/main.d73d2221.css",
     "static/js/main.98c61ebf.js"
   ]
 }
